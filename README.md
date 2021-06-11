@@ -26,12 +26,12 @@ play, it means that you don't have installed some gstreamer plugin(s).
 
 # Download
 
-  * sources: [mp-src-1.2.0.tar.xz][] [simple-ui-src-0.2.0.tar.xz][]
-  * binaries: [mp-x86_64-1.2.0.tar.xz][]
+  * sources: [mp-src-1.3.0.tar.xz][] [simple-ui-src-0.3.0.tar.xz][]
+  * binaries: [mp-x86_64-1.3.0.tar.xz][]
 
-[mp-src-1.2.0.tar.xz]: https://github.com/piotrborek/mp/raw/main/files/mp-src-1.2.0.tar.xz
-[simple-ui-src-0.2.0.tar.xz]: https://github.com/piotrborek/mp/raw/main/files/simple-ui-src-0.2.0.tar.xz
-[mp-x86_64-1.2.0.tar.xz]: https://github.com/piotrborek/mp/raw/main/files/mp-x86_64-1.2.0.tar.xz
+[mp-src-1.3.0.tar.xz]: https://github.com/piotrborek/mp/raw/main/files/mp-src-1.3.0.tar.xz
+[simple-ui-src-0.3.0.tar.xz]: https://github.com/piotrborek/mp/raw/main/files/simple-ui-src-0.3.0.tar.xz
+[mp-x86_64-1.3.0.tar.xz]: https://github.com/piotrborek/mp/raw/main/files/mp-x86_64-1.3.0.tar.xz
 
 # Screenshots
 
